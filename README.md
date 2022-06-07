@@ -9,3 +9,5 @@ https://github.com/Rellit650/Game-Jam-Repo
 Released Title on Steam 
 https://store.steampowered.com/app/1586970/Install_Wizard/
 
+Side Project using HDRP in unity
+https://github.com/Rellit650/Isra-Development
